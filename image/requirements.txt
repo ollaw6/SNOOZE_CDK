@@ -1,3 +1,5 @@
 numpy
 pandas
 boto3
+soundfile
+librosa
